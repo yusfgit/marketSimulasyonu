@@ -40,7 +40,7 @@ Tüm bu grafikler her simülasyon gününün sonunda otomatik olarak çizilir.
 
 ---
 
-##Örnek Konsol Çıktısı
+## Örnek Konsol Çıktısı
 - Yeni müşteri geldi ve Bilgileri:
 - Cinsiyeti: Man
 - Yaşı: 35
